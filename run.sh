@@ -15,7 +15,7 @@ toilet -f big ' termux-speak' -F gay | lolcat
 echo -e "\e[35mPlease make sure you media volume is up.\e[0m";
 echo -e "\e[31mTo Exit Press Ctrl+C\e[0m";
 echo " "
-espeak Hello, ... Dear, .... I am Termux Speak ... Created by LuvSarkari ..... Now you can type your text.
+espeak " Hello, ... Dear, .... I am Termux Speak ... Created by LuvSarkari ..... Now you can type your text."
 echo Enter or past your Text👇
 echo " "
 espeak
